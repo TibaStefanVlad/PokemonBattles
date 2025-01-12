@@ -1,0 +1,7 @@
+Bulbasaur
+Grass
+15
+9
+9
+7
+can evolve

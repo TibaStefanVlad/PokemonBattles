@@ -1,0 +1,7 @@
+Geodude
+Rock
+14
+9
+10
+3
+can evolve

@@ -1,0 +1,7 @@
+Squirtle
+Water
+15
+8
+11
+6
+can evolve
